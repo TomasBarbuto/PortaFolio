@@ -1,30 +1,30 @@
 #Container-A {
-    width: 500px;
-    height: 500px;
+    width: 600px;
+    height: 600px;
     background: green;
     position: relative;
-    margin: 50px 425px;
+    margin: auto;
      
 }
 #Container-B {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     background: red;
-    position: absolute;
+    position:fixed;
 }
 #Container-C {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     background: blue;
     position: absolute;
-    margin: 175px 0px;
+    margin: 200px 0px;
 }
 #Container-D {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     background: orange;
-    position: absolute;
-    margin: 350px 0px;
+    position: fixed;
+    margin: 401px 0px;
 }
 #Start-B {
     font-size: 30px;
@@ -33,8 +33,7 @@
     height: 100px;
     background: lightslategray;
     position: absolute;
-    margin: auto;
-    margin: 25px 260px;
+    margin: 50px 245px;
 }
 #Stop-B{
     font-size: 30px;
@@ -44,7 +43,7 @@
     background: lightslategray;
     position: absolute;
     margin: auto;
-    margin: 25px 990px;
+    margin: 50px 990px;
 }
 #Start-C {
     font-size: 30px;
@@ -54,7 +53,7 @@
     background: lightslategray;
     position: absolute;
     margin: auto;
-    margin: 200px 260px;
+    margin: 250px 245px;
 }
 #Stop-C{
     font-size: 30px;
@@ -64,7 +63,7 @@
     background: lightslategray;
     position: absolute;
     margin: auto;
-    margin: 200px 990px
+    margin: 250px 990px
 }
 #Start-D{
     font-size: 30px;
@@ -74,7 +73,7 @@
     background: lightslategray;
     position: absolute;
     margin: auto;
-    margin: 375px 260px;
+    margin: 450px 245px;
 }
 #Stop-D{
     font-size: 30px;
@@ -84,6 +83,6 @@
     background: lightslategray;
     position: absolute;
     margin: auto;
-    margin: 375px 990px;
+    margin: 450px 990px;
 }
 
