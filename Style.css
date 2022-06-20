@@ -1,0 +1,89 @@
+#Container-A {
+    width: 500px;
+    height: 500px;
+    background: green;
+    position: relative;
+    margin: 50px 425px;
+     
+}
+#Container-B {
+    width: 150px;
+    height: 150px;
+    background: red;
+    position: absolute;
+}
+#Container-C {
+    width: 150px;
+    height: 150px;
+    background: blue;
+    position: absolute;
+    margin: 175px 0px;
+}
+#Container-D {
+    width: 150px;
+    height: 150px;
+    background: orange;
+    position: absolute;
+    margin: 350px 0px;
+}
+#Start-B {
+    font-size: 30px;
+    font-family: unset;
+    width: 100px;
+    height: 100px;
+    background: lightslategray;
+    position: absolute;
+    margin: auto;
+    margin: 25px 260px;
+}
+#Stop-B{
+    font-size: 30px;
+    font-family: unset;
+    width: 100px;
+    height: 100px;
+    background: lightslategray;
+    position: absolute;
+    margin: auto;
+    margin: 25px 990px;
+}
+#Start-C {
+    font-size: 30px;
+    font-family: unset;
+    width: 100px;
+    height: 100px;
+    background: lightslategray;
+    position: absolute;
+    margin: auto;
+    margin: 200px 260px;
+}
+#Stop-C{
+    font-size: 30px;
+    font-family: unset;
+    width: 100px;
+    height: 100px;
+    background: lightslategray;
+    position: absolute;
+    margin: auto;
+    margin: 200px 990px
+}
+#Start-D{
+    font-size: 30px;
+    font-family: unset;
+    width: 100px;
+    height: 100px;
+    background: lightslategray;
+    position: absolute;
+    margin: auto;
+    margin: 375px 260px;
+}
+#Stop-D{
+    font-size: 30px;
+    font-family: unset;
+    width: 100px;
+    height: 100px;
+    background: lightslategray;
+    position: absolute;
+    margin: auto;
+    margin: 375px 990px;
+}
+
